@@ -1,0 +1,19 @@
+C:\Users\user\source\repos\DiceReflexesGame\DiceReflexGame\bin\Debug\DiceReflexGame.exe.config
+C:\Users\user\source\repos\DiceReflexesGame\DiceReflexGame\bin\Debug\DiceReflexGame.exe
+C:\Users\user\source\repos\DiceReflexesGame\DiceReflexGame\bin\Debug\DiceReflexGame.pdb
+C:\Users\user\source\repos\DiceReflexesGame\DiceReflexGame\obj\Debug\DiceReflexGame.csprojAssemblyReference.cache
+C:\Users\user\source\repos\DiceReflexesGame\DiceReflexGame\obj\Debug\DiceReflexGame.Form1.resources
+C:\Users\user\source\repos\DiceReflexesGame\DiceReflexGame\obj\Debug\DiceReflexGame.Properties.Resources.resources
+C:\Users\user\source\repos\DiceReflexesGame\DiceReflexGame\obj\Debug\DiceReflexGame.csproj.GenerateResource.cache
+C:\Users\user\source\repos\DiceReflexesGame\DiceReflexGame\obj\Debug\DiceReflexGame.exe
+C:\Users\user\source\repos\DiceReflexesGame\DiceReflexGame\obj\Debug\DiceReflexGame.pdb
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\DiceReflexesGame\DiceReflexGame\bin\Debug\DiceReflexGame.exe.config
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\DiceReflexesGame\DiceReflexGame\bin\Debug\DiceReflexGame.exe
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\DiceReflexesGame\DiceReflexGame\bin\Debug\DiceReflexGame.pdb
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\DiceReflexesGame\DiceReflexGame\obj\Debug\DiceReflexGame.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\DiceReflexesGame\DiceReflexGame\obj\Debug\DiceReflexGame.Form1.resources
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\DiceReflexesGame\DiceReflexGame\obj\Debug\DiceReflexGame.Properties.Resources.resources
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\DiceReflexesGame\DiceReflexGame\obj\Debug\DiceReflexGame.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\DiceReflexesGame\DiceReflexGame\obj\Debug\DiceReflexGame.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\DiceReflexesGame\DiceReflexGame\obj\Debug\DiceReflexGame.exe
+C:\Users\user\Desktop\Σχολή\3ο εξάμηνο\Εργασίες C#\για το github\DiceReflexesGame\DiceReflexGame\obj\Debug\DiceReflexGame.pdb
