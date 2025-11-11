@@ -17,7 +17,7 @@ Run DiceReflexGame.exe, located in DiceReflexesGame\DiceReflexGame\bin\Debug
 
 • Start the game by clicking on Game → New Game. Alternatively, hit Ctrl + N.
 
-• The dice will start moving across the screen. Every time it changes position, its face will change. Click on the dice to score points. The points scored are as many as the dice face indicates. Please note: once you score points by clicking on the dice, you won’t be able to score again until it changes position.
+• The dice will move across the screen, changing its face each time it moves to a new position. Click on the dice to score points — the number of points you earn matches the number shown on the dice face. Please note: after clicking to score, you must wait until the dice moves again before you can score more points.
 
 • You have 60 seconds to score as many points as you can!
 
