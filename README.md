@@ -7,7 +7,7 @@ A reflexes game featuring a dice that changes faces.
 • .NET Framework 4.7.2 or newer
 
 # Download
-Click the Code button, then click on "Download ZIP"
+Click the Code button, then click on "Download ZIP".
 
 # Execution
 Run DiceReflexGame.exe, located in DiceReflexesGame\DiceReflexGame\bin\Debug
