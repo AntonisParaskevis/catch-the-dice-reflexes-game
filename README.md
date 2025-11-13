@@ -12,14 +12,14 @@ Click the Code button, then click on "Download ZIP"
 # Execution
 Run DiceReflexGame.exe, located in DiceReflexesGame\DiceReflexGame\bin\Debug
 
-# Usage
-• Enter your name in the field located on the top side of the app.
+# How to Play
+1. Enter your name in the field located on the top side of the app.
 
-• Start the game by clicking on Game → New Game. Alternatively, hit Ctrl + N.
+2. Start the game by clicking on Game → New Game. Alternatively, hit Ctrl + N.
 
-• The dice will move across the screen, changing its face each time it moves to a new position. Click on the dice to score points — the number of points you earn matches the number shown on the dice face. Please note: after clicking to score, you must wait until the dice moves again before you can score more points.
+3. The dice will move across the screen, changing its face each time it moves to a new position. Click on the dice to score points — the number of points you earn matches the number shown on the dice face. Please note: after clicking to score, you must wait until the dice moves again before you can score more points.
 
-• You have 60 seconds to score as many points as you can!
+4. You have 60 seconds to score as many points as you can!
 
 # Other Features
 
